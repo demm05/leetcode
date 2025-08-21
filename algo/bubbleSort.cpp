@@ -1,6 +1,6 @@
-#include <vector>
-#include <utility>
 #include <iostream>
+#include <utility>
+#include <vector>
 
 using namespace std;
 
@@ -26,9 +26,9 @@ public:
 Solution sl;
 
 int main(void) {
-  vector<int> a {1, 0};
+  vector<int> a{1, 0};
   sl.sortBubble(a);
-  for (auto x: a) {
+  for (auto x : a) {
     cout << x << " ";
   }
   cout << endl;

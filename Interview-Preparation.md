@@ -36,7 +36,7 @@
     - [ ] Chapter 8: "Blazing Fast Lookup with Hash Tables"
 - [ ] Implement:
     - [ ] Bubble sort
-    - [ ] Insertion sort
+    - [X] Insertion sort
     - [ ] Selection sort
 - [ ] Draft one project description for your CV using the STAR method.
 

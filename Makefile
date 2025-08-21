@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./algo/longestCosecutive.cpp
+FILE := ./algo/insertionSort.cpp
 
 all: $(NAME)
 
