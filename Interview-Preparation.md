@@ -27,12 +27,12 @@
 #### Goal: finish the fundamentals of BigO and master hash table
 
 #### Tasks:
-- [ ] Neetcode: Arrays & Hashing (3 more to go)
+- [X] Neetcode: Arrays & Hashing (3 more to go)
 - [ ] Leetcode
     - [ ] Re-Solve all previus problems (7)
     - [ ] Write a plan of solving problems
 - [ ] Book:
-    - [ ] Chapter 7: "Big O in Everyday Code"
+    - [X] Chapter 7: "Big O in Everyday Code"
     - [ ] Chapter 8: "Blazing Fast Lookup with Hash Tables"
 - [ ] Implement:
     - [ ] Bubble sort
