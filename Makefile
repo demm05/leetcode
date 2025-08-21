@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./algo/validSudoku.cpp
+FILE := ./algo/longestCosecutive.cpp
 
 all: $(NAME)
 
@@ -13,7 +13,7 @@ g gdb: all
 r run: all
 	@./$(NAME)
 
-clean: 
+clean:
 	@rm -rf $(NAME)
 
 re: clean all
