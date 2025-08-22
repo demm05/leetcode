@@ -29,7 +29,10 @@
 #### Tasks:
 - [X] Neetcode: Arrays & Hashing (3 more to go)
 - [ ] Leetcode
-    - [ ] Re-Solve all previus problems (7)
+    - [ ] Re-sovle
+        - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+        - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+        - [X] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
     - [ ] Write a plan of solving problems
 - [ ] Book:
     - [X] Chapter 7: "Big O in Everyday Code"
@@ -37,7 +40,8 @@
 - [ ] Implement:
     - [ ] Bubble sort
     - [X] Insertion sort
-    - [ ] Selection sort
+    - [X] Selection sort
+    - [ ] Write it down how those sorting algo works
 - [ ] Draft one project description for your CV using the STAR method.
 
 ### Week-1

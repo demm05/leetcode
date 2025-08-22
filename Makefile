@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./algo/insertionSort.cpp
+FILE := ./algo/validAnagram.cpp
 
 all: $(NAME)
 
