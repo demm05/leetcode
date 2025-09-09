@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./algo/validAnagram.cpp
+FILE := ./design/MinStack.cpp
 
 all: $(NAME)
 

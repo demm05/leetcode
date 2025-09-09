@@ -45,7 +45,20 @@
 - [ ] Draft one project description for your CV using the STAR method.
 
 ### Week-1
+
+- [X] Get Sick
+
 ### Week-2
+
+- [ ] Book:
+    - [X] Chapter 8: "Blazing Fast Lookup with Hash Tables"
+    - [X] Chapter 9: "Crafting Elegant Code with Stacks and Queues"
+    - [ ] Chapter 10: "Recursively Recurse with Recursion"
+- [ ] LeetCode:
+    - [X] Valid Palindrome
+    - [X] Valid Parentheses
+    - [X] Minimum Stack
+
 ### Week-3
 ### Week-4
 ### Week-5
