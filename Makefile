@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./design/MinStack.cpp
+FILE := ./algo/evalRPN.cpp
 
 all: $(NAME)
 
