@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./algo/evalRPN.cpp
+FILE := ./algo/dailyTemperatures.cpp
 
 all: $(NAME)
 
