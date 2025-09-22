@@ -60,6 +60,11 @@
     - [X] Minimum Stack
 
 ### Week-3
+
+- [ ] Book:
+    - [ ] Chapter 10: "Recursively Recurse with Recursion"
+- [ ] LeetCode:
+
 ### Week-4
 ### Week-5
 ### Week-6

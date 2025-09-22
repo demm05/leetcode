@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./algo/dailyTemperatures.cpp
+FILE := ./algo/reverseList.cpp
 
 all: $(NAME)
 
