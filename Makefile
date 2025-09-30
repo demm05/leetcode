@@ -1,6 +1,6 @@
 NAME = main
 
-FILE := ./algo/reverseList.cpp
+FILE := ./algo/twoSum.cpp
 
 all: $(NAME)
 
